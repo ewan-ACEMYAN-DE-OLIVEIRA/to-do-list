@@ -1,5 +1,4 @@
 import { useState } from "react";
-import ETATS from '../enums.js';
 
 export default function FolderForm({ onAddFolder }) {
   const [title, setTitle] = useState("")
