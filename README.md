@@ -1,6 +1,6 @@
 # To Do List en REACT
 
-Fonctionnalités Implémentées :
+## Fonctionnalités Implémentées :
 
 - Lorsque j'arrive sur l'application, je charge par défaut le backup (fichier JSON).
 
@@ -21,3 +21,10 @@ Fonctionnalités Implémentées :
 - Un dossier a son titre dans la couleur de son attribut couleur
 
 
+## Installation
+
+```bash
+git clone <repo-url>
+cd mpn-app
+npm install
+npm start
